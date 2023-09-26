@@ -51,7 +51,10 @@ This project was designed to assess my ability to handle non-"clean" data and id
 - [x] The presentation - Canva
 
 ## The Presentation
-[Link to the Canva presentation](https://www.canva.com/design/DAFvRadSMgk/f1HwiV3kZu8Nkrpg9uk_Tw/watch?utm_content=DAFvRadSMgk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+[Link to the Canva presentation1](https://www.canva.com/design/DAFvRadSMgk/f1HwiV3kZu8Nkrpg9uk_Tw/watch?utm_content=DAFvRadSMgk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+## The Presentation
+[Link to the Canva presentation](https://www.canva.com/design/DAFvhkvS0BQ/VfqYgeuS6ncIXLF7VzhN6w/view?utm_content=DAFvhkvS0BQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ![Presentation1](png/1.png)
 ![Presentation2](png/2.png)
